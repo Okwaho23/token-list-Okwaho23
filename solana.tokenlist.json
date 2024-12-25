@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "J2861h7TMje1X64DkQPceyhZ1svXvyWBbRaevGXWXBYN",
+  "symbol": "SPC",
+  "name": "Santa Poop Coin",
+  "decimals": 9,
+  "logoURI": "https://solscan.io/token/J2861h7TMje1X64DkQPceyhZ1svXvyWBbRaevGXWXBYN",
+  "tags": ["community", "meme"]
+}
